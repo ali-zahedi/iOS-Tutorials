@@ -53,7 +53,7 @@ case .Active:
 case .Disable:
     
     print("The Gamer is disable")
-  
+
 }
 
 //“When it is not appropriate to provide a case for every enumeration case, you can provide a default case to cover any cases that are not addressed explicitl:”
@@ -178,3 +178,8 @@ if let somePlanet = PlanetOrder(rawValue: positionToFind) {
    
     print("There isn't a planet at position \(positionToFind)")
 }
+
+
+
+
+
