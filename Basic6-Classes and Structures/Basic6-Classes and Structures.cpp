@@ -36,7 +36,7 @@ int main()
     arrayModified( b );
 
 
-    // output array b using bPtr and array subscript notation
+    // ou tput array b using bPtr and array subscript notation
     cout << "\nPointer subscript notation\n";
 
     for ( int j = 0; j < 4; j++ )
